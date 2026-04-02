@@ -30,11 +30,22 @@
 ## Тепловая карта корелляции
 <img width="1124" height="989" alt="image" src="https://github.com/user-attachments/assets/95e07b6e-8f4d-4e44-ba5b-3aa6cdc13810" />
 
+## Статистика выбросов
+<img width="5589" height="593" alt="image" src="https://github.com/user-attachments/assets/3a107640-9a19-45d2-8767-9e274f5d198f" />
+
   
 ## Модели
 - Logistic Regression (balanced)
 - Random Forest (balanced)
 - Deep Neural Network (4 слоя)
+
+## ROC-кривые на валидации
+
+<img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/a62b524c-c11e-497f-8439-6f92354401f8" />
+
+## Сравнение моделей
+<img width="1478" height="390" alt="image" src="https://github.com/user-attachments/assets/1bd05c4e-290d-4e29-aaa3-78e030564cb2" />
+
 
 ## Результаты на валидации
 
