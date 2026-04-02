@@ -26,6 +26,10 @@
 - Округление и фильтрация категориальных признаков до разрешённых значений
 - One‑hot encoding для категориальных переменных
 - Масштабирование числовых признаков (StandardScaler)
+
+## Тепловая карта корелляции
+<img width="1124" height="989" alt="image" src="https://github.com/user-attachments/assets/95e07b6e-8f4d-4e44-ba5b-3aa6cdc13810" />
+
   
 ## Модели
 - Logistic Regression (balanced)
